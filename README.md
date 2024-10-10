@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about crafting beautiful and functi
 
 ## 💼 Skills
 - **Languages:** HTML, CSS, JavaScript, TypeScript, Python
-- **Frameworks/Libraries:** React, Angular, Next.js, Tailwind, Material UI, AG Grid
+- **Frameworks/Libraries:** React, Angular, Next.js, Tailwind
 - **Tools:** Git, VS Code
 
 ## 🌱 Currently Learning
