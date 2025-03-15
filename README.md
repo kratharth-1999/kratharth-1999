@@ -26,3 +26,4 @@ I'm always open to collaborating on exciting frontend projects. If you have an i
 ## ✨ Some of my work shining out there in the public! 🌟
 
 - [Cirrascale Playground](https://aisuite.cirrascale.com/) - Showcases the Qualcomm AI100's capabilities, including chat functionality, image generation, and a wide range of additional features.
+- [Wordle clone](https://kratharth-1999.github.io/wordle-clone/code/)
