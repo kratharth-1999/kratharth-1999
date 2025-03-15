@@ -9,8 +9,9 @@ Welcome to my GitHub profile! I'm passionate about crafting beautiful and functi
 
 ## 💼 Skills
 - **Languages:** HTML, CSS, JavaScript, TypeScript, Python
-- **Frameworks/Libraries:** React, Angular, Next.js, Tailwind
-- **Tools:** Git, VS Code
+- **Frameworks/Libraries:** React, Angular, Next.js, Tailwind, Node.js
+- **Databases:** SQL, MongoDB
+- **Tools:** Git, VS Code, Web Accessibility
 
 ## 🌱 Currently Learning
 - Advanced React Patterns
@@ -22,3 +23,6 @@ I'm always open to collaborating on exciting frontend projects. If you have an i
 
 - 📧 **Email:** kratharth2008@gmail.com
 
+## ✨ Some of my work shining out there in the public! 🌟
+
+- [Cirrascale Playground](https://aisuite.cirrascale.com/) - Showcases the Qualcomm AI100's capabilities, including chat functionality, image generation, and a wide range of additional features.
