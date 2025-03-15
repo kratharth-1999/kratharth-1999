@@ -13,6 +13,11 @@ Welcome to my GitHub profile! I'm passionate about crafting beautiful and functi
 - **Databases:** SQL, MongoDB
 - **Tools:** Git, VS Code, Web Accessibility
 
+## ✨ Some of my work shining out there in the public! 🌟
+
+- [Cirrascale Playground](https://aisuite.cirrascale.com/) - Showcases the Qualcomm AI100's capabilities, including chat functionality, image generation, and a wide range of additional features.
+- [Wordle clone](https://kratharth-1999.github.io/wordle-clone/code/)
+
 ## 🌱 Currently Learning
 - Advanced React Patterns
 - Progressive Web Apps (PWAs)
@@ -22,8 +27,3 @@ Welcome to my GitHub profile! I'm passionate about crafting beautiful and functi
 I'm always open to collaborating on exciting frontend projects. If you have an idea or a project in mind, feel free to reach out!
 
 - 📧 **Email:** kratharth2008@gmail.com
-
-## ✨ Some of my work shining out there in the public! 🌟
-
-- [Cirrascale Playground](https://aisuite.cirrascale.com/) - Showcases the Qualcomm AI100's capabilities, including chat functionality, image generation, and a wide range of additional features.
-- [Wordle clone](https://kratharth-1999.github.io/wordle-clone/code/)
