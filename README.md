@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm passionate about crafting beautiful and functi
 
 ## 🚀 About Me
 - 🌐 **Frontend Developer** with a knack for creating intuitive and responsive web applications.
+- ⚙️ **Backend Engineer** with a strong understanding of server-side logic, databases, and API development.
 - 🎨 **Design Enthusiast** who loves blending aesthetics with functionality.
 - 💡 **Innovator** always exploring new technologies and trends in the web development world.
 
